@@ -1,5 +1,5 @@
 {
-    "name": "bande-yan/curl",
+    "name": "swoole/curl",
     "description": "Curl SDK for PHP",
     "type": "library",
     "license": "MIT",
