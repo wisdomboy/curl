@@ -1,5 +1,5 @@
 {
-    "name": "swoole/curl",
+    "name": "curl",
     "description": "Curl SDK for PHP",
     "type": "library",
     "license": "MIT",
