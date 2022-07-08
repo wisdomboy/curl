@@ -1,5 +1,5 @@
 {
-    "name": "BandeYan/curl",
+    "name": "bande-yan/curl",
     "description": "Curl SDK for PHP",
     "type": "library",
     "license": "MIT",
@@ -12,12 +12,7 @@
     "require": {
         "php":">=5.3"
     },
-    "require-dev" : {
-        "phpunit/phpunit": "~4.0",
-        "satooshi/php-coveralls": "~1.0"
-    },
-    "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"Curl\\": "src/OSS"}
+        "psr-4": {"CURL\\": "src"}
     }
 }
